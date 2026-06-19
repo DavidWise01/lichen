@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "the-mycobiont",
+    "name": "The Mycobiont",
+    "epithet": "the fungus that builds the body · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Mycobiont:LIC:a0dbcf⟧"
+  },
+  {
+    "slug": "the-photobiont",
+    "name": "The Photobiont",
+    "epithet": "the alga that feeds it · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Photobiont:LIC:df21ee⟧"
+  },
+  {
+    "slug": "the-third-partner",
+    "name": "The Third Partner",
+    "epithet": "the hidden yeast, 2016 · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Third Partner:LIC:95a196⟧"
+  },
+  {
+    "slug": "the-thallus",
+    "name": "The Thallus",
+    "epithet": "the shared body · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Thallus:LIC:95f35d⟧"
+  },
+  {
+    "slug": "emergence-by-merger",
+    "name": "Emergence by Merger",
+    "epithet": "the cell's own trick · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Emergence by Merger:LIC:1d75c7⟧"
+  },
+  {
+    "slug": "the-pioneer",
+    "name": "The Pioneer",
+    "epithet": "first life on bare rock · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Pioneer:LIC:d9e115⟧"
+  },
+  {
+    "slug": "surviving-space",
+    "name": "Surviving Space",
+    "epithet": "alive in the vacuum · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Surviving Space:LIC:8ce2df⟧"
+  },
+  {
+    "slug": "the-dual-hypothesis",
+    "name": "The Dual Hypothesis",
+    "epithet": "Schwendener's heresy · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Dual Hypothesis:LIC:01afee⟧"
+  },
+  {
+    "slug": "lichen-time",
+    "name": "Lichen Time",
+    "epithet": "the slowest clock · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Lichen Time:LIC:b45717⟧"
+  },
+  {
+    "slug": "the-composite-self",
+    "name": "The Composite Self",
+    "epithet": "one name, many lives · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Composite Self:LIC:887a7c⟧"
+  },
+  {
+    "slug": "simon-schwendener",
+    "name": "Simon Schwendener",
+    "epithet": "who saw the two, 1829–1919 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Simon Schwendener:LIC:ac79df⟧"
+  }
+]

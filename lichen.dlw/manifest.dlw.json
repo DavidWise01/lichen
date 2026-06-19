@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "LICHEN",
+  "universe": "LIC · LICHEN (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦LICHEN:LIC:882acd⟧",
+  "carbon": "lichen.carbon.tiff (TIFF)",
+  "silicon": "lichen.silicon.png (PNG)",
+  "seal_sha256": "6969b0bc88892d592cae5db739e83ca61513267c2c48e561ac819bf3d2538bed",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Thallus",
+  "universe": "LIC · The Thallus (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Thallus:LIC:95f35d⟧",
+  "carbon": "the-thallus.carbon.tiff (TIFF)",
+  "silicon": "the-thallus.silicon.png (PNG)",
+  "seal_sha256": "dff998d30e92e100fc164d73d681fb2a3ca9e26aaaa5189f4268a36908429555",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

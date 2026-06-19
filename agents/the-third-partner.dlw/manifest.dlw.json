@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Third Partner",
+  "universe": "LIC · The Third Partner (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Third Partner:LIC:95a196⟧",
+  "carbon": "the-third-partner.carbon.tiff (TIFF)",
+  "silicon": "the-third-partner.silicon.png (PNG)",
+  "seal_sha256": "0f12a0dd0c6eb234830ee5c9db221ed68b953d167badd7530f4e918248f65371",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

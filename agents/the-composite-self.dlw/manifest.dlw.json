@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Composite Self",
+  "universe": "LIC · The Composite Self (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Composite Self:LIC:887a7c⟧",
+  "carbon": "the-composite-self.carbon.tiff (TIFF)",
+  "silicon": "the-composite-self.silicon.png (PNG)",
+  "seal_sha256": "846fbc70891a0ca1f9aff64f0d5b3051cdbe4f73c8f63e72a8f3f8ac1ec5f871",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lichen Time",
+  "universe": "LIC · Lichen Time (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Lichen Time:LIC:b45717⟧",
+  "carbon": "lichen-time.carbon.tiff (TIFF)",
+  "silicon": "lichen-time.silicon.png (PNG)",
+  "seal_sha256": "9145ac53c9d850f5938ccb7757880771668f465c08a73d93a8ba4c32593e1b7e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

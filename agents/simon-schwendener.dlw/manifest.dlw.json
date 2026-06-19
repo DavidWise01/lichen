@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Simon Schwendener",
+  "universe": "LIC · Simon Schwendener (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Simon Schwendener:LIC:ac79df⟧",
+  "carbon": "simon-schwendener.carbon.tiff (TIFF)",
+  "silicon": "simon-schwendener.silicon.png (PNG)",
+  "seal_sha256": "d5a5a36a5e7bce685dafda5ecaae46988d11d7145b377ad0aeadcb837a8e2edc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

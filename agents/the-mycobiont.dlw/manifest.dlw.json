@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mycobiont",
+  "universe": "LIC · The Mycobiont (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Mycobiont:LIC:a0dbcf⟧",
+  "carbon": "the-mycobiont.carbon.tiff (TIFF)",
+  "silicon": "the-mycobiont.silicon.png (PNG)",
+  "seal_sha256": "8da24bbd5731de7cf4742584c19d72adbe196820c2a423d31d57c4d968324d8a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

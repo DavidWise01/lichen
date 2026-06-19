@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dual Hypothesis",
+  "universe": "LIC · The Dual Hypothesis (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Dual Hypothesis:LIC:01afee⟧",
+  "carbon": "the-dual-hypothesis.carbon.tiff (TIFF)",
+  "silicon": "the-dual-hypothesis.silicon.png (PNG)",
+  "seal_sha256": "0466f825560e9e6026afd44ec85322362b99e2aabda897573b2f794fac807811",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
